@@ -1,0 +1,1 @@
+I work on an alternative solution for the distribution of open/public THREEDTiles to serve our city/community. In the first phase i will investigate the bandwidth what common viewers can accept. in the second phase i will build a py solution to export public data to THREEDTiles.
